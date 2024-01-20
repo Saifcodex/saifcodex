@@ -1,6 +1,6 @@
 # Saif Ahmed
 
- I'm Saif Ahmed, a passionate Computer Science Engineering student at the University of Asia Pacific. Currently in my 2nd year, I have a strong foundation in C, C++, Java, Python, and Machine Learning basics.
+ I'm Saif Ahmed, a passionate Computer Science Engineering student at the University of Asia Pacific. Currently in my 3rd year, I have a strong foundation in C, C++, Java, Python, and Machine Learning basics.
 
 🚀 My dream is to become a part of a giant tech company, where I can contribute to groundbreaking projects and be at the forefront of innovation.
 
