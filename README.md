@@ -9,13 +9,13 @@ I aspire to become a distinguished Data Scientist and Engineer, contributing to 
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-- 🔭 I’m currently working on [----](----)
+- 🔭 I’m currently working on [WebDevelopment Project](----)
 
-- 🌱 I’m currently learning **----**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on [----](----)
+- 👯 I’m looking to collaborate on [None](----)
 
-- 🤝 I’m looking for help with [----](----)
+- 🤝 I’m looking for help with [None](----)
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://saifcodex.github.io/)
 
